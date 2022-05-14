@@ -1,0 +1,4 @@
+cid,FirstLastP,Rcpts,Spent,PACs,Indivs,Cand,Other,EndCash,LgIndivs,SmIndivs,enddate,ReleaseDate,VotePercent,Result,CRPICO,State,IncCID,Incumbent,primarydate,DistIDCurr,capeye,sort,SmLgIndivsNote
+N00005282,Jerry Moran (R),6617848.0,5597323.91,3271193.0,3205687.0,0.0,140968.0,1192108.0,3015967.0,189718.0,2016-12-31 00:00:00 +0000,2017-05-18 00:00:00 +0000,62.4,W,I,Kansas,"","",2016-08-02 00:00:00 +0000,KSS2,0,1,N
+N00032740,Patrick Wiesner (D),36252.0,38286.0,0.0,6861.0,29390.0,1.0,613.0,5892.0,969.0,2016-12-31 00:00:00 +0000,2017-05-18 00:00:00 +0000,32.1,L,C,Kansas,"","",2016-08-02 00:00:00 +0000,    ,0,2,N
+N00030243,Robert Garrard (L),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,2017-05-18 00:00:00 +0000,0.0, ,C,Kansas,"","",2016-08-02 00:00:00 +0000,,0,2,N
